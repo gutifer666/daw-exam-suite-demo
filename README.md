@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# DawExamSuiteDemo
+
+This project is a demo for the DawExamSuite project. It is a simple Angular application that allows the user to create, read, update and delete exams. The user can also view the details of an exam by clicking on it.
+
